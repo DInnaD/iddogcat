@@ -253,7 +253,7 @@ ol.type li a.active {
 ol.type li a:hover {
 	color: #71bd46;
 	border-bottom: 1px solid #b8dea2;
-	padding-bottom: 8px;
+	padding-bottom: 2px;
 }
 .isotope-item {
 	z-index: 2
