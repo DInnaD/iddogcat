@@ -230,7 +230,8 @@ img.team-img {
 ==============================*/
 #works-section {
 	padding: 100px 0;
-	background-color: #f6f6f6;
+	/*background-color: #f6f6f6;*/
+        background-color: #222222;
 }
 .categories {
 	padding-bottom: 30px;
